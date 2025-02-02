@@ -1,0 +1,15 @@
+{
+  "name": "wings-vps-webservice",
+  "version": "1.0.0",
+  "description": "Web service for Wings VPS management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^8.7.0"
+  }
+}
